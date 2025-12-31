@@ -226,7 +226,7 @@ Las 5 características más importantes para la detección de fraude son:
 
 **Alonso Martin**
 
-- 📧 Email: [alonsomartin1805@gmail.com](alonsomartin1805@gmail.com)
+- 📧 Email: [alonsomartin1805@gmail.com](mailto:alonsomartin1805@gmail.com)
 
 Este proyecto fue desarrollado como parte de un análisis de detección de fraude en e-commerce.
 
